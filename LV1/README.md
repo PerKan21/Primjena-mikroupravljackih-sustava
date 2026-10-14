@@ -66,7 +66,4 @@ Za Adafruit inačicu (`LV1_SCD30_Adafruit/LV1_SCD30_Adafruit.ino`) treba instali
 
 Zadatci, upute za spajanje i kostur koda preuzeti su iz predloška vježbe. Početni program napisan je na temelju profesorova kostura.
 
-Korišteni su AI alati OpenAI ChatGPT / Codex i Anthropic Claude.
-
-- **ChatGPT / Codex** korišten je za prepisivanje bilježaka s mjerenjima, oblikovanje izvještaja i dopune koda, odnosno I2C skeniranje, inicijalizaciju senzora, procjenu slobodnog SRAM-a, raspored LED-ice i mjerenja pomoću `millis()` te upozorenje nakon 10 s bez odgovora senzora.
-- **Claude** korišten je za jezično uređivanje i usklađivanje izvještaja i README-a, izgled izvještaja, opis mjesta provjere CRC i spajanja riječi u float u izvornom kodu biblioteke te za primjer ispisa serijskog monitora u zadatku 6, koji je složen prema prosjeku izmjerenom u laboratoriju T3-28.
+Korišteni su AI alati **OpenAI ChatGPT / Codex i Anthropic Claude**.
